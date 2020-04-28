@@ -1,1 +1,1 @@
-# Clipboard-Paste-Output-Formalizer
+# Clipboard-Copied-String-Formalizer
