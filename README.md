@@ -6,7 +6,7 @@ however, when I tried to copy text from pdf book, then paste it to google doc,
 the text all jamed together. All paragraphs are pasted as one paragraph, and there were plenty extra spaces pasted as well. 
 It costs a lot of time to separate each paragraphs. 
 I found one manual solution to this problems:
-1. TO Paste the text to the broser link area, then copy from there then paste it to google doc.
+1. To paste the text to the broser link area, then copy from there then paste it to google doc.
 However, once it's pasted to the google doc, the space will disapear, but all paragraph jammed together.
 2. I had to manually seperate paragraphs. 
 
